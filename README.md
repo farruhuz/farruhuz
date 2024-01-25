@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Farrukh</h1>
 <h3 align="center">A passionate JS Engineer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400"
