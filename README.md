@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Farrukh</h1>
 <h3 align="center">A passionate JS Engineer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400"
@@ -106,9 +106,5 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript" width="40" height="40" /> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a> <a
-    href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-      alt="webpack" width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"
-    rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
-  </a>
-</p>
+    href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> </p>
