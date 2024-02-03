@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL, Mongodb,**
 
-- 📝 I regularly write articles on [https://t.me/frontend_kundaligi](https://t.me/frontend_kundaligi)
+- 📝 I regularly write articles on [frontend_kundaligi](https://t.me/frontend_kundaligi)
 
 - 💬 Ask me about **JavaScript, React, React Native**
 
